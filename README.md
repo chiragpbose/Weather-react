@@ -4,6 +4,7 @@
 3. Has a "default location" functionality
 4. sources information from the Open Weather API
 5. Weather icons are sourced from https://erikflowers.github.io/weather-icons/
+6. Deployment: https://weather-react-2eqzotbwy-chiragpandeybose.vercel.app/
 
 
 
