@@ -1,4 +1,4 @@
-#This is a simple weather app made with react
+# This is a simple weather app made with react
 1. Shows the weather of a particular location
 2. Wide range of locations provided
 3. Has a "default location" functionality
