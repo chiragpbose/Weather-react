@@ -1,3 +1,12 @@
+#This is a simple weather app made with react
+1. Shows the weather of a particular location
+2. Wide range of locations provided
+3. Has a "default location" functionality
+4. sources information from the Open Weather API
+5. Weather icons are sourced from https://erikflowers.github.io/weather-icons/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
